@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Peter. I'm a Senior Security Engineer with a passion for appsec and app development.
+
+- 🔭 I’m currently working on a Metroidvania in Monogame
+- 🌱 I’m currently learning Handmade Hero, Monogame, and Unity
+- 🤔 I’m looking for help with understanding the Windows API. It's very confusing to program for
